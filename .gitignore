@@ -31,4 +31,3 @@ yarn-error.log*
 # Lock files (optional, but good to keep for mobile/backend consistency)
 # package-lock.json
 README.md
-.claude/
